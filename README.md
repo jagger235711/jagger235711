@@ -5,7 +5,7 @@
 ### About Me:
 - 🔭 I’m currently working on data analysis
 - 🌱 I’m currently learning in machineLearning algorithms&Crawler
-- 📫 How to reach me: https://t.me/Jagger2357
+- 📫 How to reach me: xy102504@gmail.com
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
