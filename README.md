@@ -1,4 +1,4 @@
-<center><font face="" size=8>Hi there 👋, I'm jagger</font></center>
+# Hi there 👋, I'm jagger
 
 <!-- about me -->
 ---
