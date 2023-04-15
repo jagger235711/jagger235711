@@ -1,4 +1,17 @@
-### Hi there 👋
+<center><font face="" size=8>Hi there 👋, I'm jagger</font></center>
+
+<!-- about me -->
+---
+### About Me:
+- 🔭 I’m currently working on data analysis
+- 🌱 I’m currently learning in machineLearning algorithms&Crawler
+- 📫 How to reach me: https://t.me/Jagger2357
+<!-- 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
 <!--
 **jagger235711/jagger235711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Gif icon -->
+---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
+</div>
