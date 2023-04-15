@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on data analysis
 - 🌱 I’m currently learning in machineLearning algorithms&Crawler
 - 📫 How to reach me: 
-<span style="unicode-bidi:bidi-override; direction: rtl; color:#c00;">moc.liamg@908785252</span>
+<span style="unicode-bidi:bidi-override; direction: rtl; color:#c00;">moc.qq@908785252</span>
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
