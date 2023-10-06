@@ -1,12 +1,13 @@
-## Hi there 👋, I'm jagger
+# Hi there 👋, I'm jagger
 
 <!-- about me -->
 ---
-### About Me:
-- 🔭 I’m currently working on data analysis
-- 🌱 I’m currently learning in machineLearning algorithms&Crawler
-- 📫 How to reach me: 
-<span style="unicode-bidi:bidi-override; direction: rtl; color:#c00;">moc.qq@908785252</span>
+
+## About Me
+
+- 🔭 I’m currently working on Back-end development
+- 🌱 I’m currently learning in Java development
+
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
