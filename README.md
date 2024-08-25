@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning in Java development
 
 ![Jagger's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagger235711&count_private=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagger235711&langs_count=8&theme=light&count_private=true&layout=compact&&hide=html,css,scss,CoffeeScript&card_width=280)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagger235711&langs_count=8&theme=light&count_private=false&layout=compact&&hide=html,css,scss,CoffeeScript,javaScript&card_width=280)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
