@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jagger
 
 ### About Me
-
+- # Searching for remote work! #
 - 🔭 I’m currently working on Back-end development
 - 🌱 I’m currently learning in Java development
 
