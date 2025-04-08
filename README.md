@@ -2,8 +2,8 @@
 
 ### About Me
 - # Searching for remote work! #
-- 🔭 I’m currently working on Back-end development
-- 🌱 I’m currently learning in Java development
+- 🔭 I’m  worked on Back-end development
+- 🌱 I’m currently learning in Machine Learning
 
 ![Jagger's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagger235711&count_private=true&theme=transparent)
 
